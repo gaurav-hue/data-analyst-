@@ -17,10 +17,10 @@
 
 ## 📂 Repository Structure
 
-- 🔗 [Projects](./%20projects) — Data analysis case studies & dashboards  
-- 🔗 [Certificates](./%20certificates) — Course completion proofs  
-- 🔗 [Learning Notes](./%20learning-notes) — Notes, resources, cheat sheets  
-- 🔗 [Resume](./%20resume) — Latest resume & job docs  
+- 🔗 [Projects](./projects) — Data analysis case studies & dashboards  
+- 🔗 [Certificates](./%certificates) — Course completion proofs  
+- 🔗 [Learning Notes](./learning-notes) — Notes, resources, cheat sheets  
+- 🔗 [Resume](./resume) — Latest resume & job docs  
 - 🔗 [Progress Tracker](./PROGRESS.md) — Daily learning log
 
 ## 🎯 Goals
