@@ -27,7 +27,8 @@
 
 - Master the data stack: Excel, SQL, Python, BI tools  
 - Build real-world, problem-solving projects  
-- Become job-ready for a data analyst role in 2025  
+- Actively working to become job-ready for a Data Analyst role at the earliest
+
 
 ---
 
