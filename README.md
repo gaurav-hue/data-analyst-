@@ -17,11 +17,11 @@
 
 ## 📂 Repository Structure
 
-- 📁 [Projects](https://github.com/your-username/your-repo-name/tree/main/projects) — Real-world data projects and dashboards  
-- 📁 [Certificates](https://github.com/your-username/your-repo-name/tree/main/certificates) — Proof of completed courses  
-- 📁 [Learning Notes](https://github.com/your-username/your-repo-name/tree/main/learning-notes) — Personal notes, cheat sheets  
-- 📁 [Resume](https://github.com/your-username/your-repo-name/tree/main/resume) — Updated resume and career docs  
-- 📘 [Track My Progress](https://github.com/your-username/your-repo-name/blob/main/PROGRESS.md) — _Daily log of key learnings & milestones_
+- 🔗 [Projects](./projects) — Data analysis case studies & dashboards  
+- 🔗 [Certificates](./certificates) — Course completion proofs  
+- 🔗 [Learning Notes](./learning-notes) — Notes, resources, cheat sheets  
+- 🔗 [Resume](./resume) — Latest resume & job docs  
+- 🔗 [Progress Tracker](./PROGRESS.md) — Daily learning log
 
 ## 🎯 Goals
 
